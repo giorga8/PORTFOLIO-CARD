@@ -1,0 +1,16 @@
+body {
+    background-image: url(img/Layer-13.png)  ;
+        -o-background-size: cover;
+    background-size: cover;
+-moz-background-size: cover;
+-webkit-background-size: cover;
+   font-family: 'hacked','hacked','hacked';
+}
+.win {
+    background-image: url(img/ram.png);
+width: 996px;
+height: 666px;
+    margin-top: 5%;
+  
+    
+}

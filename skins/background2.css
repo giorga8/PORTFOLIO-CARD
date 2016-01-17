@@ -1,0 +1,8 @@
+body{
+background-image: url(https://scontent-frt3-1.xx.fbcdn.net/hphotos-xap1/t31.0-8/12087119_924521767618211_4304810895693690399_o.jpg);
+-o-background-size: cover;
+background-size: cover;
+-moz-background-size: cover;
+-webkit-background-size: cover;
+font-family: 'hacked';
+}

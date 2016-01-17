@@ -1,0 +1,8 @@
+body {
+    background-image: url(Layer-13.png)  ;
+        -o-background-size: cover;
+    background-size: cover;
+-moz-background-size: cover;
+-webkit-background-size: cover;
+   font-family: 'hacked','hacked','hacked';
+}
